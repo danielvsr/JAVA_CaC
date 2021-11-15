@@ -32,7 +32,9 @@ public class datos {
 		sistemaOperativo=entrada.nextLine();
 
 		System.out.println("");
-		System.out.println("Los datos ingresados son los siguientes:");
+		System.out.println("********************************************");
+		System.out.println("* Los datos ingresados son los siguientes: *");
+		System.out.println("********************************************");
 		System.out.println("");
 		System.out.println("Nombre y apellido: " + nombre + " " + apellido);
 		System.out.println("Edad: " + edad);
